@@ -297,9 +297,11 @@ skyshield/
 
 MIT — built for IMPACTHON 2026.
 
----
+----
 
 <div align="center">
   <strong>TRINETRA</strong> · Your Campus Safety Companion<br/>
   <em>Smart Technology. Safer Tomorrow.</em>
 </div>
+
+
