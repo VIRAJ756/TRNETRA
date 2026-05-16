@@ -2,7 +2,7 @@
 ### Your Campus Safety Companion
 **Smart Technology. Safer Tomorrow.**
 
-> Every location. Every moment. Protected.
+> Every location. Every moment. Protected every movement and your moves
 
 ---
 
