@@ -1,0 +1,7 @@
+node_modules/
+dist/
+apps/api/uploads/
+apps/api/dev.db
+apps/api/dist/
+.env
+*.env
